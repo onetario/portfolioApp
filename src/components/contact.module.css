@@ -1,0 +1,23 @@
+.con {
+  text-align: start;
+  padding: 0px 50px;
+  background-color: whitesmoke;
+  width: 60vw;
+  margin-left: 200pt;
+  display: grid;
+  align-items: center;
+  margin-bottom: 65px;
+  border: 1px solid whitesmoke;
+  border-radius: 50px;
+  margin-top: 70px;
+}
+.span {
+  font-weight: 600;
+  color: chocolate;
+}
+p {
+  margin-top: -5px;
+}
+.subCon {
+  margin-top: 20px;
+}

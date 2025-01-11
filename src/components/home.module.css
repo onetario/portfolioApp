@@ -1,0 +1,24 @@
+.subContainer {
+  background-image: url("../components/image/v-background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 88% 28px;
+  /* background-attachment: fixed; */
+  height: 102vh;
+  width: 100%;
+  color: aliceblue;
+  margin-top: -49px;
+  margin-bottom: 65px;
+}
+.subContainer h4,
+h1 {
+  position: relative;
+  top: 200px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+.subContainer h1 {
+  font-family: cursive;
+  color: chocolate;
+}
