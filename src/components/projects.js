@@ -3,7 +3,7 @@ export default function Projects() {
   const projects = [
     {
       title: "MovieHub :",
-      image: "./movieHub.png",
+      image: "./portfolioApp/movieHub.png",
       skillsUsed: "Html, CSS",
       link: "https://onetario.github.io/movie-hub/",
     },
