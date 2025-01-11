@@ -3,25 +3,25 @@ export default function Projects() {
   const projects = [
     {
       title: "MovieHub :",
-      image: "/movieHub.png",
+      image: "./portfolioApp/movieHub.png",
       skillsUsed: "Html, CSS",
       link: "https://onetario.github.io/movie-hub/",
     },
     {
       title: "PanCard Form :",
-      image: "/panCardForm.png",
+      image: "./panCardForm.png",
       skillsUsed: "Html, CSS",
       link: "https://onetario.github.io/panCardForm/",
     },
     {
       title: "Foodie Store :",
-      image: "/foodieStore.png",
+      image: "./foodieStore.png",
       skillsUsed: "Html, CSS, Bootstrap",
       link: "https://onetario.github.io/foodieStore-responsive/",
     },
     {
       title: "Todo List :",
-      image: "/todoList.png",
+      image: "./todoList.png",
       skillsUsed: "Html, CSS, JAVASCRIPT",
       link: "https://onetario.github.io/todoList/",
     },
